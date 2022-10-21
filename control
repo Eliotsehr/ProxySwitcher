@@ -1,0 +1,10 @@
+Package: com.esehr.proxyswitcher
+Name: Proxy Switcher
+Depends: mobilesubstrate, PreferenceLoader
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Réglage rapide pour le proxy
+Maintainer: Esehr
+Author: Esehr
+Section: Tweaks
+Icon: file:///Library/Application Support/ProxySwitcher/ProxySwitcherBundle.bundle/icon.png

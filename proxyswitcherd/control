@@ -1,0 +1,10 @@
+Package: com.esehr.proxyswitcherd
+Name: ProxySwitcherd
+Depends: 
+Version: 1.0
+Architecture: iphoneos-arm
+Description: The daemon for ProxySwitcher
+Maintainer: esehr
+Author: esehr
+Section: System
+Tag: role::hacker

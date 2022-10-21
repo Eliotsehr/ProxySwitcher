@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "Loading ProxySwitcher daemon..."
+launchctl load /Library/LaunchDaemons/com.esehr.proxyswitcherd.plist
+exit 0

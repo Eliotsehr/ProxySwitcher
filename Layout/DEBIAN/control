@@ -1,0 +1,10 @@
+Package: com.esehr.proxyswitcher
+Name: ProxySwitcher
+Depends: mobilesubstrate, PreferenceLoader,firmware(>= 8), firmware (<< 9.1) | org.thebigboss.libstatus9, firmware (>= 9.0) | libstatusbar
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Easily toggle between using a proxy on WiFi.
+Maintainer: esehr
+Author: esehr
+Section: Tweaks
+Icon: file:///Library/Application Support/ProxySwitcher/ProxySwitcherBundle.bundle/icon.png

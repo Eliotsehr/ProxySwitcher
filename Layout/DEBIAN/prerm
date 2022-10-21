@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "Unloading ProxySwitcher daemon..."
+launchctl unload /Library/LaunchDaemons/com.esehr.proxyswitcherd.plist
+exit 0
